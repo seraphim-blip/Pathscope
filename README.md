@@ -140,8 +140,6 @@ Example:
 pathscope/
 ├── cli.py
 ├── requirements.txt
-├── assets/
-│   └── pathscope_hacker.svg
 ├── output/
 ├── core/
 ├── crawler/
