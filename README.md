@@ -210,6 +210,3 @@ The **Pathscope** name, logo, and branding assets are reserved.
 ## Author
 
 Built by **Seraphim**.
-
-```
-```
