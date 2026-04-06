@@ -5,3 +5,4 @@ SECRET_PATTERNS = [
     r'jwt',
     r'authorization',
     r'password',
+]
