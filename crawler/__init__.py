@@ -1,1 +1,1 @@
-
+"""Initialize crawler module."""
