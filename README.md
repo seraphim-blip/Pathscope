@@ -30,14 +30,14 @@ flowchart TD
 
 ## Core Capabilities
 
-* ⚡ High-concurrency asynchronous crawling
-* 🌐 Deep recursive internal route traversal
-* 🔍 Endpoint extraction from HTML and JavaScript
-* 🔐 Secret pattern discovery
-* 🧠 Modular scanner architecture
-* 📄 Structured JSON findings
-* 🕸️ SPA-ready rendering extension path
-* 📦 Clean package structure for scaling teams
+*  High-concurrency asynchronous crawling
+*  Deep recursive internal route traversal
+*  Endpoint extraction from HTML and JavaScript
+*  Secret pattern discovery
+*  Modular scanner architecture
+*  Structured JSON findings
+*  SPA-ready rendering extension path
+*  Clean package structure for scaling teams
 
 ---
 
@@ -185,13 +185,13 @@ Always maintain:
 
 ## Roadmap
 
-* 🧠 Playwright SPA renderer
-* 🔄 Redis distributed queue
-* 📊 HTML reporting
-* 📈 CSV / SARIF exporters
-* 🔐 authenticated crawling
-* 🛰️ sitemap ingestion
-* 🔌 plugin scanner API
+*  Playwright SPA renderer
+*  Redis distributed queue
+*  HTML reporting
+*  CSV / SARIF exporters
+*  authenticated crawling
+*  sitemap ingestion
+*  plugin scanner API
 
 ---
 
